@@ -65,14 +65,6 @@
 
 <hr>
 
-
-## :rocket: 算法模型获取
-
-- Giuhub链接：[GitHub链接](https://github.com/zxx1218/imgsegment)
-- Gitee链接：[Gitee稍后提供]()
-
-**PS：如果通过Github访问项目，需要挂梯子。请不要通过“加速通道”访问，因为我们的代码常有更新，加速通道中的项目版本可能较老**
-
 ### 运行要求
 
 - 运行算法与Web前端需要 Python >= 3.9
