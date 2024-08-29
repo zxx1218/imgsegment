@@ -36,13 +36,12 @@
 链接: https://pan.baidu.com/s/1T8BKWvuNWzcgl-cB1tEU1w?pwd=vckd 提取码: vckd
 ```
 
-
 **在线体验使用方式：**
 &emsp;&emsp;打开连接后，左侧图片输入框需要上传待分割的图片。**在网页下方提供了几组输入图片样例，点击样例自动填充到相应位置后即可直接点击提交查看效果。**
 
 **注意：** 修复第一张图的时候耗时较长，大约15秒左右。从第二张图开始，速度就会快起来，大约5秒左右一张（这主要是因为第一次启动的时候模型需要加载进显卡中）
 ![demo1](./show_img/zaixian1.png)
-![demo1](./show_img/zaixian1.png)
+![demo1](./show_img/zaixian2.png)
 
 
 <hr>
