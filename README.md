@@ -18,7 +18,7 @@
 ## :sparkles: 图像分割在线体验
 
 👇
-**Web端在线体验地址：**:white_check_mark:[访问这里进行图像分割在线体验](http://qh880639rv62.vicp.fun:49420/):white_check_mark:
+**Web端在线体验地址：**:white_check_mark:[访问这里进行图像分割在线体验](http://zxxserver.w1.luyouxia.net/imgsegment/):white_check_mark:
 **在线体验地址已经集成了训练好的模型，您只需点击选择使用的模型即可！**
 
 :package:：我训练时的数据集“TR-DUTS”在这里下载
@@ -135,7 +135,7 @@ python predict.py
 
 ### 1. 访问Web页面进行图像修复
 
-Web端在线体验地址：:white_check_mark:[访问这里进行图像修复在线体验](http://qh880639rv62.vicp.fun:49420/):white_check_mark:
+Web端在线体验地址：:white_check_mark:[访问这里进行图像修复在线体验](http://zxxserver.w1.luyouxia.net/imgsegment/):white_check_mark:
 
 - 视频稍后上传
 
